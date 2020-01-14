@@ -1,0 +1,27 @@
+#_table {
+    width: 98%;
+    padding: 5px;
+    text-align: center;
+}
+
+#_table td {
+    padding: 10px
+}
+
+#contTable {
+    overflow: overlay;
+    height: 87vh;
+    margin-top: 10px;
+}
+
+.flag {
+    width: 92px;
+    height: 92px;
+    object-fit: scale-down;
+}
+
+.faIcon {
+    color: #FFF;
+    text-decoration: none;
+    font-size: 25px;
+}
